@@ -5,7 +5,7 @@ const req = require("request");
 const querystring = require("querystring");
 
 const defaultOptions = {
-  baseUrl: "https://extratorrent.cc",
+  baseUrl: "https://extratorrent.site",
   timeout: 4 * 1000
 };
 
